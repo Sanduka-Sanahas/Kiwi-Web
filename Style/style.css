@@ -1,0 +1,138 @@
+#title {
+  color: rgb(0, 0, 7);
+  margin-left: 100px;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  font-weight: lighter;
+  margin-left: 100px;
+}
+.red-color-paragraph {
+  color: brown;
+}
+.birds {
+  height: 300px;
+  width: 200px;
+  margin-left: 70px;
+  border: 2px solid black;
+}
+.birdgroup {
+  margin-left: 100px;
+}
+
+.redbox {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  background-color: red;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 0px;
+}
+.bluebox {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  background-color: rgb(25, 0, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 0px;
+}
+.rectangle {
+  height: 1400px;
+  width: 613px;
+  background-color: rgb(139, 176, 194)
+}
+.left {
+  margin-left: 50px;
+}
+.tablep {
+  margin-right: 50px;
+  margin-right: 150px;
+  
+}
+.align {
+  text-align: left;
+  font-size: 25px;
+  margin-top: 4em ;
+  font-weight: normal;
+
+}
+.title_2 {
+  font-size: 150;
+  font-weight: bolder;
+}
+#birdsrec {
+  height: 300px;
+  width: 300px;
+  margin-left: 25px;
+  border: 1px solid black;
+ 
+}
+#sub_text {
+  color: rgb(16, 16, 230);
+  font-size: 16px;
+  font-weight: lighter;
+}
+.green_rec {
+  height: 35px;
+  width: 613px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  background-color: rgb(42, 128, 8);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 0px;
+  font-family: monospace;
+}
+.purple_rec {
+    height: 35px;
+    width: 613px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    background-color: rgb(128, 8, 128);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 0px;
+    font-family: monospace;
+  }
+.list_margin li{
+    
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.list_black {
+  
+  font-weight:bold;
+  margin-left: 50px;
+  list-style-type: none;
+  text-align: left;
+   margin-bottom: 10px;
+}
+.list_blue {
+    font-weight:bold;
+    margin-left: 50px;
+    list-style-type: none;
+    text-align: left;
+     margin-bottom: 10px;
+     color: blue;
+  }
+#url{
+    font-size: 30px;
+}
+#last_text{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+    font-size: 100px;
+}
+#sub_1{
+    text-align:center;
+    font-size: 16px;
+}
